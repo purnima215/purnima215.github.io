@@ -4,9 +4,11 @@ description: >-
   Author, translator, publisher.
 baseurl: ""
 url: "https://purnima215.github.io"
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
   - jekyll-include-cache
 
 defaults:

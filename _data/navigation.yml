@@ -1,0 +1,17 @@
+- title: "Home"
+  url: /
+
+- title: "Books"
+  url: /books/
+
+- title: "Media"
+  url: /media/
+
+- title: "Events"
+  url: /events/
+
+- title: "Contact"
+  url: /contact/
+
+- title: "About"
+  url: /about/

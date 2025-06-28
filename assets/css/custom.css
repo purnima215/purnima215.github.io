@@ -1,0 +1,47 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+
+body {
+    background-color: pink !important;
+  }
+
+
+/* Apply font styles */
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 17px;
+  line-height: 1.75;
+  color: #2d2d2d;
+}
+  
+h1, h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 500;
+  color: #5a2a2a;  /* Optional: your burgundy */
+}
+
+/* Make hero tagline more elegant */
+blockquote {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #5a2a2a;
+}
+
+/* Make splash-page buttons larger and more elegant */
+.btn {
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    background-color: #5a2a2a;  /* Burgundy */
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .btn:hover {
+    background-color: #8a3c3c;  /* Lighter hover */
+    color: #ffffff;
+  }
+  

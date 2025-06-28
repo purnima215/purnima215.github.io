@@ -28,3 +28,6 @@ header_pages:
   - _pages/media.md
   - _pages/events.md
   - _pages/contact.md
+
+custom_css:
+  - /assets/css/custom.css

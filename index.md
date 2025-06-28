@@ -22,12 +22,10 @@ title: "Purnima Tammireddy"
 
 --- 
 
-I'm a writer, translator and publisher, working in both Telugu and English. I was a writer-in-residence at the 2022 Sangam House International Writer Residency. 
-
-In 2022, I founded Elami Publications, an independent Telugu publishing house, and co-founded pustakam.net, a website for book reviews, in 2009. A techie by profession, I live in Bengaluru.
+I'm an author, translator, and publisher working across languages, borders, and genres.  
+My work sits with silences, celebrates subcultures, and centers stories that resist forgetting.
 
 ---
 
-📬 Interested in my work, translations, or collaborations?  
-Feel free to [get in touch →](/contact/)
+📬 Curious minds, kindred writers, and gentle readers — [reach out](/contact) if you'd like to connect.
 
